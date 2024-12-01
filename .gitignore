@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+tf/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Cache files
+*.cache
+*.log
+*.out
+*.tmp
+
+# Configurations and settings
+*.env
+*.DS_Store
+*.vscode/
+.idea/
+*.sqlite3
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# TensorFlow or large model files
+*.h5
+*.ckpt
+*.tflite
+*.pb
+
+# Pip compile output
+pip-wheel-metadata/
+*.whl
+
+# Temporary files and backups
+*.bak
+*.swp
+*.tmp
+
+# Debugging logs
+debug.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
